@@ -1,4 +1,4 @@
-![Header]<a href="https://www.ryanmontville.com/">(./header-image.png)</a>
+<a href="https://www.ryanmontville.com/">[Header](./header-image.png)</a>
 * View my <a href="https://www.ryanmontville.com/">Portofilo Homepage</a>
 * Go to my <a href="https://www.linkedin.com/in/ryanmontville/">LinkedIn profile</a>
 
