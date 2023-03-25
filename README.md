@@ -2,7 +2,7 @@
 * View my <a href="https://www.ryanmontville.com/">Portofilo Homepage</a>
 * Go to my <a href="https://www.linkedin.com/in/ryanmontville/">LinkedIn profile</a>
 
-![Spring Boot] (https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 ## Current Projects in my portfolio
 * <a href="https://github.com/RyanMontville/Bee-Inspection">Bee Inspection</a> - A React.js App
