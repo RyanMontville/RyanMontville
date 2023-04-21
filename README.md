@@ -22,8 +22,9 @@
 
 ## Current Projects in my portfolio
 * <a href="https://github.com/RyanMontville/Bee-Inspection">Bee Inspection</a> - A React.js App
-* <a href="https://github.com/RyanMontville/War">War Card Game</a> - A Angular App
+* <a href="https://github.com/RyanMontville/War">War Card Game</a> - An Angular App
 * <a href="https://github.com/RyanMontville/Hangman">Hangman</a> - An Angular App
 * <a href="https://github.com/RyanMontville/weather-bot">Weather Bot</a> - An Angular App
 * <a href="https://github.com/RyanMontville/BreweryGuide">Philadelphia Brewery Guide</a> - A Vue.js App
 * <a href="https://github.com/RyanMontville/disney">My Adventure Blog</a> - A React.js App
+* <a href="https://github.com/RyanMontville/trivia">Trivia</a> - An Angular App
