@@ -28,3 +28,4 @@
 * <a href="https://github.com/RyanMontville/BreweryGuide">Philadelphia Brewery Guide</a> - A Vue.js App
 * <a href="https://github.com/RyanMontville/disney">My Adventure Blog</a> - A React.js App
 * <a href="https://github.com/RyanMontville/trivia">Trivia</a> - An Angular App
+* <a href="https://www.ryanmontville.com/go-fish/">Go Fish</a> - An Angular App
