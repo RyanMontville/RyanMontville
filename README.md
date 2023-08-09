@@ -29,4 +29,4 @@
 * <a href="https://github.com/RyanMontville/disney">My Adventure Blog</a> - A React.js App
 * <a href="https://github.com/RyanMontville/trivia">Trivia</a> - An Angular App
 * <a href="https://www.ryanmontville.com/go-fish/">Go Fish</a> - An Angular App
-* <a href="https://github.com/RyanMontville/unitconverter">Unit Converter - A C# program
+* <a href="https://github.com/RyanMontville/unitconverter">Unit Converter</a> - A C# program
