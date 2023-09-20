@@ -19,14 +19,17 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+## My Top Projects
+* <a href="https://github.com/RyanMontville/Bee-Inspection">Bee Inspection</a> - A full stack app I made for my parents who are bee keepers to help them record and track the health of the hive throughout the year. I taught myself React to create this app. It records the current weather through <a href="https://open-meteo.com/">Open Metro's</a> weathe API.
+* <a href="https://github.com/RyanMontville/trivia">Trivia</a> - I created this trivia game after I taught myself Python. It runs on Python and Flask and uses <a href="https://opentdb.com/">OpenTriviaDatabase's</a> API.
+* <a href="https://github.com/RyanMontville/War">War Card Game</a> - I made the card game War after I taught myself Angular.
 
-## Current Projects in my portfolio
-* <a href="https://github.com/RyanMontville/Bee-Inspection">Bee Inspection</a> - A React.js App
-* <a href="https://github.com/RyanMontville/War">War Card Game</a> - An Angular App
-* <a href="https://github.com/RyanMontville/Hangman">Hangman</a> - An Angular App
-* <a href="https://github.com/RyanMontville/weather-bot">Weather Bot</a> - An Angular App
-* <a href="https://github.com/RyanMontville/BreweryGuide">Philadelphia Brewery Guide</a> - A Vue.js App
-* <a href="https://github.com/RyanMontville/disney">My Adventure Blog</a> - A React.js App
-* <a href="https://github.com/RyanMontville/trivia">Trivia</a> - A Flask App
-* <a href="https://www.ryanmontville.com/go-fish/">Go Fish</a> - An Angular App
-* <a href="https://github.com/RyanMontville/unitconverter">Unit Converter</a> - A C# program
+
+## Other Projects in my portfolio
+### Most of these projects were created to explore APIs.
+* <a href="https://github.com/RyanMontville/unitconverter">Unit Converter</a> - I created a unit converter app after I started learning C#. IT currently does not have a web interface, but I plan to build a .net interface soon.
+* <a href="https://github.com/RyanMontville/Hangman">Hangman</a> - An Angular App of the game Hangman that allows the player to select a category or get a word from <a href="https://random-word-api.herokuapp.com/home">Random word API</a>.
+* <a href="https://github.com/RyanMontville/weather-bot">Weather Bot</a> - A chat bot interface for weather forecasts that runs on Angular and Typescript and gets weather info from <a href="https://open-meteo.com/>Open Metro</a>.
+* <a href="https://github.com/RyanMontville/BreweryGuide">Philadelphia Brewery Guide</a> - A Vue.js App. This was my team's final capstone at Tech Elevator.
+* <a href="https://github.com/RyanMontville/disney">My Adventure Blog</a> - A React.js blog documenting my adventures working for Disney.
+* <a href="https://www.ryanmontville.com/go-fish/">Go Fish</a> - An Angular app of the gaem Go Fish.
