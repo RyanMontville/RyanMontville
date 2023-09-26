@@ -29,7 +29,7 @@
 ### Most of these projects were created to explore APIs.
 * <a href="https://github.com/RyanMontville/unitconverter">Unit Converter</a> - I created a unit converter app after I started learning C#. IT currently does not have a web interface, but I plan to build a .net interface soon.
 * <a href="https://github.com/RyanMontville/Hangman">Hangman</a> - An Angular App of the game Hangman that allows the player to select a category or get a word from <a href="https://random-word-api.herokuapp.com/home">Random word API</a>.
-* <a href="https://github.com/RyanMontville/weather-bot">Weather Bot</a> - A chat bot interface for weather forecasts that runs on Angular and Typescript and gets weather info from <a href="https://open-meteo.com/>Open Metro</a>.
+* <a href="https://github.com/RyanMontville/weather-bot">Weather Bot</a> - A chat bot interface for weather forecasts that runs on Angular and Typescript and gets weather info from <a href="https://open-meteo.com">Open Metro</a>.
 * <a href="https://github.com/RyanMontville/BreweryGuide">Philadelphia Brewery Guide</a> - A Vue.js App. This was my team's final capstone at Tech Elevator.
 * <a href="https://github.com/RyanMontville/disney">My Adventure Blog</a> - A React.js blog documenting my adventures working for Disney.
 * <a href="https://www.ryanmontville.com/go-fish/">Go Fish</a> - An Angular app of the gaem Go Fish.
