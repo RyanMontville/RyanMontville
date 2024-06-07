@@ -23,7 +23,7 @@
 
 ## My Top Projects
 * <a href="https://github.com/RyanMontville/Bee-Inspection">Bee Inspection</a> (March 2023) - A full stack app I made for my parents who are bee keepers to help them record and track the health of the hive throughout the year. I taught myself React to create this app. It records the current weather through <a href="https://open-meteo.com/">Open Metro's</a> weathe API.
-* <a href="https://ryanmontville.github.io/pythonmaze/">Python Maze Generator</a> (June 2024) - A Python app that uses <a href="https://docs.python.org/3/library/turtle.html">Turtle Graphics</a> to randomly generate mazes.
+* <a href="https://github.com/RyanMontville/pythonmaze">Python Maze Generator</a> (June 2024) - A Python app that uses <a href="https://docs.python.org/3/library/turtle.html">Turtle Graphics</a> to randomly generate mazes.
 * <a href="https://github.com/RyanMontville/unitconverter">Unit Converter</a> (October 2023) - I created a unit converter app after I started learning C#. IT currently does not have a web interface, but I plan to build a .net interface soon.
 
 
