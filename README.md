@@ -1,5 +1,5 @@
 <a href="https://ryanmontville.github.io/">![Header - Ryan Montville](./header-image.png)</a>
-* View my <a href="[https://www.ryanmontville.com/](https://ryanmontville.github.io/)">Portofilo Homepage</a>
+* View my <a href="https://ryanmontville.github.io/">Portofilo Homepage</a>
 * Go to my <a href="https://www.linkedin.com/in/ryanmontville/">LinkedIn profile</a>
 
 ## Skills
