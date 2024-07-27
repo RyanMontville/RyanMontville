@@ -1,6 +1,6 @@
 <a href="https://ryanmontville.github.io/">![Header - Ryan Montville](./header-image.png)</a>
-* View my <a href="https://ryanmontville.github.io/">Portofilo Homepage</a>
-* Go to my <a href="https://www.linkedin.com/in/ryanmontville/">LinkedIn profile</a>
+* View my [Portofilo Homepage](https://ryanmontville.github.io/)
+* Go to my [LinkedIn profile](https://www.linkedin.com/in/ryanmontville/)
 
 ## Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -24,18 +24,18 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## My Top Projects
-* <a href="https://github.com/RyanMontville/Bee-Inspection">Bee Inspection</a> (March 2023) - A full stack app I made for my parents who are bee keepers to help them record and track the health of the hive throughout the year. I taught myself React to create this app. It records the current weather through <a href="https://open-meteo.com/">Open Metro's</a> weathe API.
-* <a href="https://github.com/RyanMontville/pythonmaze">Python Maze Generator</a> (June 2024) - A Python app that uses <a href="https://docs.python.org/3/library/turtle.html">Turtle Graphics</a> to randomly generate mazes.
-* <a href="https://github.com/RyanMontville/unitconverter">Unit Converter</a> (October 2023) - I created a unit converter app after I started learning C#. IT currently does not have a web interface, but I plan to build a .net interface soon.
+* [Bee Inspection](https://github.com/RyanMontville/Bee-Inspection) (March 2023) - A full stack app I made for my parents who are bee keepers to help them record and track the health of the hive throughout the year. I taught myself React to create this app. It records the current weather through [Open Metro's](https://open-meteo.com/) weathe API.
+* [Canvas Stats](https://github.com/TheRealMonte/therealmonte.github.io) (July 2024) - An Angular app that uses Python, PostgreSQL, Angular, and TypeScript to create statistics for the 2024 [Canvas](https://canvas.fediverse.events/) event from over 650,000 row of raw data
+* [Python Maze Generator](https://github.com/RyanMontville/pythonmaze) (June 2024) - A Python app that uses [Turtle Graphics](https://docs.python.org/3/library/turtle.html) to randomly generate mazes.
 
 
 ## Other Projects in my portfolio
-### Most of these projects were created to explore APIs.
-* <a href="https://github.com/RyanMontville/trivia">Trivia</a> (August 2023) - I created this trivia game after I taught myself Python. It runs on Python and Flask and uses <a href="https://opentdb.com/">OpenTriviaDatabase's</a> API.
-* <a href="https://github.com/RyanMontville/go-fish">Go Fish</a> (July 2023) - An Angular app of the gaem Go Fish.
-* <a href="https://github.com/RyanMontville/disney">My Adventure Blog</a> (April 2023) - A React.js blog documenting my adventures working for Disney.
-* <a href="https://github.com/RyanMontville/War">War Card Game</a> (February 2023) - I made the card game War after I taught myself Angular.
-* <a href="https://github.com/RyanMontville/Hangman">Hangman</a> (February 2023) - An Angular App of the game Hangman that allows the player to select a category or get a word from <a href="https://random-word-api.herokuapp.com/home">Random word API</a>.
-* <a href="https://github.com/RyanMontville/weather-bot">Weather Bot</a> (February 2023) - A chat bot interface for weather forecasts that runs on Angular and Typescript and gets weather info from <a href="https://open-meteo.com">Open Metro</a>.
-* <a href="https://github.com/RyanMontville/BreweryGuide">Philadelphia Brewery Guide</a> (December 2022) - A Vue.js App. This was my team's final capstone at Tech Elevator. 
+* [Unit Converter](https://github.com/RyanMontville/unitconverter) - (October 2023) - I wanted to learn C# to see how it compares to Java, so I created Blazor app that can convert distances, weights, and temperatures
+* [Trivia](https://github.com/RyanMontville/trivia) (August 2023) - I created this trivia game after I taught myself Python. It runs on Python and Flask and uses [OpenTriviaDatabase's](https://opentdb.com/) API.
+* [Go Fish](https://github.com/RyanMontville/go-fish) (July 2023) - An Angular app of the gaem Go Fish.
+* [My Adventure Blog](https://github.com/RyanMontville/disney) (April 2023) - A React.js blog documenting my adventures working for Disney.
+* [War Card Game](https://github.com/RyanMontville/War) (February 2023) - An angular app of the card game War.
+* [Hangman](https://github.com/RyanMontville/Hangman) (February 2023) - An Angular App of the game Hangman that allows the player to select a category or get a word from [Random word API](https://random-word-api.herokuapp.com/home).
+* [Weather Bot](https://github.com/RyanMontville/weather-bot) (February 2023) - An Angular app with a chat bot interface for weather forecasts that gets weather info from [Open Metro](https://open-meteo.com).
+* [Philadelphia Brewery Guide](https://github.com/RyanMontville/BreweryGuide) (December 2022) - A Vue.js App. This was my team's final capstone at Tech Elevator. 
 
