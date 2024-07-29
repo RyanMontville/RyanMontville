@@ -25,7 +25,7 @@
 
 ## My Top Projects
 * [Bee Inspection](https://github.com/RyanMontville/Bee-Inspection) (March 2023) - A full stack app I made for my parents who are bee keepers to help them record and track the health of the hive throughout the year. I taught myself React to create this app. It records the current weather through [Open Metro's](https://open-meteo.com/) weathe API.
-* [Canvas Stats](https://github.com/TheRealMonte/therealmonte.github.io) (July 2024) - An Angular app that uses Python, PostgreSQL, Angular, and TypeScript to create statistics for the 2024 [Canvas](https://canvas.fediverse.events/) event from over 650,000 row of raw data
+* [Canvas Stats](https://github.com/RyanMontville/canvas-stats) (July 2024) - An Angular app that uses Python, PostgreSQL, Angular, and TypeScript to create statistics for the 2024 [Canvas](https://canvas.fediverse.events/) event from over 650,000 row of raw data
 * [Python Maze Generator](https://github.com/RyanMontville/pythonmaze) (June 2024) - A Python app that uses [Turtle Graphics](https://docs.python.org/3/library/turtle.html) to randomly generate mazes.
 
 
