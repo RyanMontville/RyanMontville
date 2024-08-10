@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-58CC02?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
@@ -30,6 +31,7 @@
 
 
 ## Other Projects in my portfolio
+* [Packing List](https://github.com/RyanMontville/packing-list) - (August 2024) - An Angualr Progessive Web App that allows users to create lists for upcoming trips.
 * [Unit Converter](https://github.com/RyanMontville/unitconverter) - (October 2023) - I wanted to learn C# to see how it compares to Java, so I created Blazor app that can convert distances, weights, and temperatures
 * [Trivia](https://github.com/RyanMontville/trivia) (August 2023) - I created this trivia game after I taught myself Python. It runs on Python and Flask and uses [OpenTriviaDatabase's](https://opentdb.com/) API.
 * [Go Fish](https://github.com/RyanMontville/go-fish) (July 2023) - An Angular app of the gaem Go Fish.
