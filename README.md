@@ -35,7 +35,7 @@
 ## Other Projects in my portfolio
 * [Say the Same Thing](https://github.com/RyanMontville/same-word) (April 2025) - A game that runs on Agular where 2 players try to say the same thing. Players text each other a url for the other player to play the next round.
 * [Packing List](https://github.com/RyanMontville/packing-list) (October 2024) - An Angualr Progessive Web App that allows users to create lists for upcoming trips.
-* [The Actual Olympic Medal Rankings](https://github.com/RyanMontville/actual-olympic-medals-ranking) (August 2024) - I calculated what the olympic medal rankings woud be if instead of awarding one medal per team, you count every athlete on the team
+* [The Actual Olympic Medal Rankings](https://github.com/RyanMontville/actual-olympic-medals-ranking) (August 2024) - I calculated what the olympic medal rankings woud be if instead of awarding one medal per team, you count every athlete on the team.
 * [Canvas Stats](https://github.com/RyanMontville/canvas-stats) (July 2024) - An Angular app that uses Python, PostgreSQL, Angular, and TypeScript to create statistics for the 2024 [Canvas](https://canvas.fediverse.events/) event from over 650,000 row of raw data
 * [Unit Converter](https://github.com/RyanMontville/unitconverter) (October 2023) - I wanted to learn C# to see how it compares to Java, so I created Blazor app that can convert distances, weights, and temperatures
 * [Trivia](https://github.com/RyanMontville/trivia) (August 2023) - I created this trivia game after I taught myself Python. It runs on Python and Flask and uses [OpenTriviaDatabase's](https://opentdb.com/) API.
