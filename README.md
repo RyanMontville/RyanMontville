@@ -12,10 +12,13 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-58CC02?style=for-the-badge&logo=flask&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,10 +30,9 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## My Top Projects
+* [BuzzNote](https://github.com/RyanMontville/buzz-note-v2) (January 2026) - A full stack app I made for MontesOwn.com to record and track the health of the hive throughout the year. The app uses Vanilla Typescript and Vite for the frontend, a FatFree API, and a MySQL database.
 * [Rubik's Mosaic Text Generator](https://github.com/RyanMontville/rubiksTextGeneration) (March 2025) - An Angular app that generates a guide image with text that can then be used to create a Rubik's Cube Mosaic.
 * [Python Maze Generator](https://github.com/RyanMontville/pythonmaze) (June 2024) - A Python app that uses [Turtle Graphics](https://docs.python.org/3/library/turtle.html) to randomly generate mazes.
-* [BuzzNote](https://github.com/RyanMontville/buzz-note-v2) (May 2025) - A full stack app I made for MontesOwn.com to record and track the health of the hive throughout the year. The app uses Angular for the frontend, a FatFree API, and a MySQL database.
-
 
 ## Other Projects in my portfolio
 * [Say the Same Thing](https://github.com/RyanMontville/same-word) (April 2025) - A game that runs on Agular where 2 players try to say the same thing. Players text each other a url for the other player to play the next round.
