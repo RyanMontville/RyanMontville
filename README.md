@@ -30,7 +30,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## My Top Projects
-* [BuzzNote](https://github.com/RyanMontville/buzz-note-v2) (January 2026) - A full stack app I made for MontesOwn.com to record and track the health of the hive throughout the year. The app uses Vanilla Typescript and Vite for the frontend, a FatFree API, and a MySQL database.
+* [BuzzNote](https://github.com/RyanMontville/buzz-note-v3) (January 2026) - A full stack app I made for MontesOwn.com to record and track the health of the hive throughout the year. The app uses Vanilla Typescript and Vite for the frontend, a FatFree API, and a MySQL database.
 * [Rubik's Mosaic Text Generator](https://github.com/RyanMontville/rubiksTextGeneration) (March 2025) - An Angular app that generates a guide image with text that can then be used to create a Rubik's Cube Mosaic.
 * [Python Maze Generator](https://github.com/RyanMontville/pythonmaze) (June 2024) - A Python app that uses [Turtle Graphics](https://docs.python.org/3/library/turtle.html) to randomly generate mazes.
 
