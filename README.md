@@ -29,6 +29,9 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+## Masters Degree
+I am currently getting my Masters degree in Software Engineering at Loyola University of Chicago. You can view my coursework and projects [here](https://masters.ryanmontville.com/).
+
 ## My Top Projects
 * [BuzzNote](https://github.com/RyanMontville/buzz-note-v3) (January 2026) - A full stack app I made for MontesOwn.com to record and track the health of the hive throughout the year. The app uses Vanilla Typescript and Vite for the frontend, a FatFree API, and a MySQL database.
 * [Days For Girls Inventory App](https://github.com/ryan-montville/days-for-girls-solon) (December 2025) - A typescript app created while getting my Masters degreen at Loyola University of Chicago. The app was created for the Days for Girls Solon Ohio team to manage their inventory and provide updates about their current projects and events.
