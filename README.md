@@ -5,11 +5,11 @@
 
 ## Education
 
-**Masters in Computer Science (Software Engineering) | Loyola University Chicago** — I am currently pursuing my Master's degree with a focus on full-stack development, software architecture, and data visualization. You can view my complete coursework and academic projects [here](https://masters.ryanmontville.com/).
+**Masters in Computer Science (Software Engineering) | Loyola University Chicago** - I am currently pursuing my Master's degree with a focus on full-stack development, software architecture, and data visualization. You can view my complete coursework and academic projects [here](https://masters.ryanmontville.com/).
 
-**Java Web Application Development Bootcamp | Tech Elevator** — Completed December 2022. An intensive, full-time program focused on full-stack development, object-oriented programming (Java), database design (PostgreSQL), and modern frontend frameworks.
+**Java Web Application Development Bootcamp | Tech Elevator** - Completed December 2022. An intensive, full-time program focused on full-stack development, object-oriented programming (Java), database design (PostgreSQL), and modern frontend frameworks.
 
-**B.S. in New Media and Communications Technology | Ohio State University** — Graduated 2016 with a focus on Human-Computer Interaction (HCI).
+**B.S. in New Media and Communications Technology | Ohio State University** - Graduated 2016 with a focus on Human-Computer Interaction (HCI).
 
 ## Skills and Technologies
 
