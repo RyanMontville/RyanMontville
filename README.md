@@ -25,7 +25,7 @@
 
 ## Websites and Web Apps
 
-* [GuatemaltaUSA.org](https://www.guatemaltausa.org/) - Website created for Guatemalta USA that runs on TypeScript, Vite, and Firebase
+* [GuatemaltaUSA.org](https://github.com/Guatemalta-USA/GuatemaltaUSA) - Website created for Guatemalta USA that runs on TypeScript, Vite, and Firebase
 * [Days For Girls Inventory App](https://github.com/ryan-montville/days-for-girls-solon) - A typescript app created while getting my Masters degree at Loyola. The app was created for the Days for Girls Solon Ohio team to manage their inventory and provide updates about their current projects and events.
 * [BuzzNote](https://github.com/RyanMontville/buzz-note-v3) - A full stack app I made for MontesOwn.com to record and track the health of the hive throughout the year. The app uses Vanilla TypeScript and Vite for the frontend, a FatFree API, and a MySQL database.
 * [Canvas Stats](https://github.com/CanvasStats/main) - An Angular app that uses Python, PostgreSQL, TypeScript, Vite, and D3.js to create statistics for the annual [Canvas](https://canvas.fediverse.events/) event from over 650,000 rows of raw data
